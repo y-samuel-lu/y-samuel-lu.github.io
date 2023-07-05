@@ -22,9 +22,8 @@ Cosmic rays (CR) are high energy particle beams propogating in the universe (mos
 
 Relevant papers: [Suoqing Ji et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.4221J/abstract), [Philip Hopkins et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4184H/abstract).
 
-|![Impacts on gas morphology of different CR transport models](https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/All_proj_dens.png?raw=true)|
-|:--:|
-|Impacts on gas morphology by different CR transport models|
+![Impacts on gas morphology of different CR transport models](https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/All_proj_dens.png?raw=true)
+**Impacts on gas morphology by different CR transport models**
 
 # Accretion disks around supermassive black holes
 Accretion phenomena are ubiquitous in the universe, especially around massive astrophysical objects like supermassive black holes (SMBH). They are gemetrically thin disks that carry huge angular momentum and energy. Due to the existence of magnetic fields, various instabilities exist within the disks, and the most famous one is of course the magnetorotational instability (MRI). Understanding the physics of accretion disk requires lots of knowledge of the magnetohydrodynamics (MHD) and radiative processes, and the use of supercomputer simulations is also crucial.
