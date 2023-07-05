@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "About.md", title: "About Me"}
   - {file: "CV.md", title: "CV"}
   - {file: "Research.md", title: "My Research"}
+  - {file: "Notes.md", title: "My notes"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yul232@ucsd.edu"}
