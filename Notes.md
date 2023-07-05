@@ -5,7 +5,7 @@ title: ""
 Here are some of the notes I wrote. Note that I do not claim authorship to any of them, since they are simply assimilation and reproduction of knowledge I learned from people who have much more wit than me.
 
 # Physics notes
-- A set of notes on the physics of stellar and galactic systems (since this is closed to my area of research). I found that (very unfortunately) college physics courses usually didn't do a good job teaching those topics systematically, so I think they might be useful for people who are interested in this area:
+- A set of notes on the physics of stellar and galactic systems (since this is close to my area of research). I found that (very unfortunately) college physics courses usually fail to do a good job teaching those topics systematically, so I think they might be useful for people who are interested in this area:
 
   - Part I: [Potential theory](https://drive.google.com/file/d/14RnAgMFF4bk6dWkm3pk6_giGrteRMLCg/view?usp=sharing)
   
