@@ -13,7 +13,7 @@ Intergalactic filaments are probably the most prominent large scale strcuture in
 Relevant papers: [Avishai Dekel et al. 2009](https://ui.adsabs.harvard.edu/abs/2009Natur.457..451D/abstract), [Nir Mandelker et al. 2017](https://ui.adsabs.harvard.edu/abs/2018ApJ...861..148M/abstract), [Y. S. Lu et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230603966L/abstract).
 
 
-| <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/Slices_major.png?raw=true" wdith="10"> | <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/Therm_proj.png?raw=true" width="5"> |
+| <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/Slices_major.png?raw=true" wdith="10"> | <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/Therm_proj.png?raw=true" width="100"> |
 |:---:|:---:|
 | Filaments in a cosmic web | Filament cross sections |
 
