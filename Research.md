@@ -27,6 +27,6 @@ Relevant papers: [Suoqing Ji et al. 2020](https://ui.adsabs.harvard.edu/abs/2020
 |Impacts on gas morphology by different CR transport models|
 
 # Accretion disks around supermassive black holes
-Accretion phenomena are ubiquitous in the universe, especially around massive astrophysical objects like supermassive black holes (SMBH). They are gemetrically thin disks that carry huge angular momentum and energy. Due to the existence of magnetic fields, various instabilities exist within the disks, and the most famous one is of course the magnetorotational instability (MRI). Understanding the physics of accretion disk requires lots of knowledge of the magnetohydrodynamics (MHD) and radiative processes, and the use of supercomputer simulations is also crucial.
+Accretion phenomena are ubiquitous in the universe, especially around massive astrophysical objects like supermassive black holes (SMBH). They are gemetrically thin disks that carry huge angular momentum and energy. Due to the existence of magnetic fields, various instabilities arise within the disks, and the most famous one is of course the magnetorotational instability (MRI). Understanding the physics of accretion disk requires lots of knowledge of the magnetohydrodynamics (MHD) and radiative processes, and the use of supercomputer simulations is also crucial.
 
 Relevant papers: [Omer Blaes et al. 2011](https://ui.adsabs.harvard.edu/abs/2011ApJ...733..110B/abstract), [Jiang and Blaes 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...900...25J/abstract).
