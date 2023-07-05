@@ -14,11 +14,11 @@ Relevant papers: [Avishai Dekel et al. 2009](https://ui.adsabs.harvard.edu/abs/2
 
 <p float="left">
   <figure>
-    <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/Slices_major.png?raw=true" width="100" />
+    <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/Slices_major.png?raw=true" width="200" />
     <figcaption> Filaments in a cosmic web </figcaption>
   </figure>
   <figure>
-    <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/Therm_proj.png?raw=true" width="100" /> 
+    <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/master/Images/Therm_proj.png?raw=true" width="200" /> 
     <figcaption> Filament cross sections </figcaption>
   </figure>
 </p>
