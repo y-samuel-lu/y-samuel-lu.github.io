@@ -15,3 +15,4 @@ Here are some of the notes I wrote. Note that I do not claim authorship to any o
  
 
 # Mathematics notes
+- A note on the properties and related theorems of the Dirichlet series and Dirichlet-L function. Some knowledge on complex analysis is needed to read [this note](Dirichlet_series.pdf).
