@@ -14,4 +14,4 @@ Here are some of the notes I wrote. Note that I do not claim authorship to any o
  -- Part III: [Hydrodynamics](https://drive.google.com/file/d/1N_F20raq_g8c2AtkeQ33kSzVUZHIUH4H/view?usp=sharing)
  
 
-- # Mathematics notes
+# Mathematics notes
