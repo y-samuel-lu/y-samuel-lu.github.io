@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Academic Notes"
 ---
 Here are some of the notes I wrote. Note that I do not claim authorship to any of them, since they are simply assimilation and reproduction of knowledge I learned from people who have much more wit than me. Should there be any mistakes appearing in these notes, please let me know and I'll be happy to correct them!
 
