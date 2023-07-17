@@ -12,6 +12,8 @@ Here are some expository notes I have written on various topics. Note that I DO 
   - Part II: [Orbit theory](https://drive.google.com/file/d/1TmByovEkhnkvcINHMdh86P4KFgPxAJ5I/view?usp=sharing)
  
   - Part III: [Hydrodynamics](https://drive.google.com/file/d/1N_F20raq_g8c2AtkeQ33kSzVUZHIUH4H/view?usp=sharing)
+    
+  - Part IV: [Basic magnetohydrodynamics (MHD)](https://drive.google.com/file/d/1Mz15vRx_fqAVgY_l0PEWFLihvfiiDVGt/view?usp=drivesdk)
  
 
 # Mathematics notes
