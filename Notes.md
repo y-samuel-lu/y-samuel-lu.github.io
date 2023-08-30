@@ -16,6 +16,8 @@ Here are some expository notes I have written on various topics. Note that I DO 
   - Part IV: [Basic magnetohydrodynamics (MHD)](https://drive.google.com/file/d/1Mz15vRx_fqAVgY_l0PEWFLihvfiiDVGt/view?usp=drivesdk)
  
   - Part V: [Statistical Mechanics (in the Boltzmann and Fokker-Planck language)](https://drive.google.com/file/d/1tJspEbOU74u5Q1eudlkbAxmJ7sUsTJuA/view?usp=sharing)
+
+  - Part VI: [Radiation and Radiative Transfer (with limited examples)](https://drive.google.com/file/d/1-9VFxnc6Na5j7_JemFyphTvmNZjGs8Rn/view?usp=sharing)
  
 
 # Mathematics notes
