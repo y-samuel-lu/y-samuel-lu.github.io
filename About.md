@@ -2,7 +2,7 @@
 layout: page
 title: "About Me"
 ---
-<img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/8db4601e318dfcc9e853f2da5a4b1cacd8be5681/Images/IMG_1207.JPG?raw=true" width="300"> 
+<img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/08d09531d97d62ec914db6e71918ef15256e160e/Images/IMG_1207.JPG?raw=true" width="300"> 
 
 My name is Samuel Lu, and I am currently a Ph. D student in the [Physics Department](https://physics.ucsd.edu) of the University of California San Diego. I am doing research in the [Center for Astrophysics and Space Sciences (CASS)](https://cass.ucsd.edu/index.php/Main_Page) and the [Astronomy Department](https://astro.ucsd.edu) under the supervision of [Prof. Dusan Keres](https://cass.ucsd.edu/index.php/faculty:Dkeres). I got my double bachelor's degree in physics and mathematics (with an astronomy minor) from UC Santa Barbara in 2022.
 
