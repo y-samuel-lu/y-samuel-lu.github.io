@@ -7,9 +7,9 @@ Here are some expository notes I have written on various topics. Note that I DO 
 # Physics notes
 - A set of notes on the physics of stellar and galactic systems (since this is close to my area of research). They are hand written on iPad to be (hopefully) more illustrative. I personally found (very unfortunately) that college physics courses for physics majors usually failed on doing a good job teaching those topics systematically, so I think they might be useful for people who are interested in this area. This set of notes is under construction as I'm still learning in this area.
 
-  - Part I: [Potential theory](https://drive.google.com/file/d/14RnAgMFF4bk6dWkm3pk6_giGrteRMLCg/view?usp=sharing)
+  - Part I: [Potential theory](https://drive.google.com/file/d/14liZ8i76a3QtkXxcXnwXcB85JuJN1cRw/view?usp=sharing) (updated)
   
-  - Part II: [Orbit theory](https://drive.google.com/file/d/1TmByovEkhnkvcINHMdh86P4KFgPxAJ5I/view?usp=sharing)
+  - Part II: [Orbit theory](https://drive.google.com/file/d/1gSgvAh-hh9jX-_06ZJLBxsUGPoEzMXtO/view?usp=sharing) (updated)
  
   - Part III: [Hydrodynamics](https://drive.google.com/file/d/1N_F20raq_g8c2AtkeQ33kSzVUZHIUH4H/view?usp=sharing)
     
