@@ -13,7 +13,7 @@ Here are some expository notes I have written on various topics. Note that I DO 
  
   - Part III: [Hydrodynamics](https://drive.google.com/file/d/12331fBUfP-uCNwstLrrAgIz7Yq32sQ6O/view?usp=share_link) (large, download needed)
     
-  - Part IV: [Basic magnetohydrodynamics (MHD)](https://drive.google.com/file/d/1QZs8MJfY85PL0RxgrN8wz6sumjsnT5ec/view?usp=share_link)
+  - Part IV: [Basic magnetohydrodynamics (MHD)](https://drive.google.com/file/d/1z2qCSN-NRQRDJqtXtp3RQnXur0lXVArc/view?usp=sharing)
  
   - Part V: Non equilibrium statistical mechanics: coming soon
 
