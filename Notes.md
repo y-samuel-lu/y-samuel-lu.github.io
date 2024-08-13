@@ -15,7 +15,7 @@ Here are some expository notes I have written on various topics. Note that I DO 
     
   - Part IV: [Basic magnetohydrodynamics (MHD)](https://drive.google.com/file/d/1z2qCSN-NRQRDJqtXtp3RQnXur0lXVArc/view?usp=sharing)
  
-  - Part V: Non equilibrium statistical mechanics: coming soon
+  - Part V: [Non equilibrium statistical mechanics](https://drive.google.com/file/d/1CyeUVzmYeuHu61Orl53OR8TUVuGtzhks/view?usp=share_link)
 
   - Part VI: Radiation and radiative transfer: coming soon
  
