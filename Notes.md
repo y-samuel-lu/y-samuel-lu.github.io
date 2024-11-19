@@ -17,7 +17,7 @@ Here are some expository notes I have written on various topics. Note that I DO 
  
   - Part V: [Non equilibrium statistical mechanics](https://drive.google.com/file/d/1CyeUVzmYeuHu61Orl53OR8TUVuGtzhks/view?usp=share_link)
 
-  - Part VI: [Radiation and radiative transfer](https://drive.google.com/file/d/1N8AWk9TY1UfH5vh-dT0AtfvLzNAaeRbG/view?usp=sharing)
+  - Part VI: [Radiation and radiative transfer](https://drive.google.com/file/d/1N8AWk9TY1UfH5vh-dT0AtfvLzNAaeRbG/view?usp=sharing) (large, download needed)
  
 
 # Mathematics notes
