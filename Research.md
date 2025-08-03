@@ -12,7 +12,7 @@ Cosmic rays (CRs) are high energy particles propogating in the universe (most of
 
 Relevant papers: [Y. S. Lu et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250513597L/abstract), [Suoqing Ji et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.4221J/abstract), [Philip Hopkins et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4184H/abstract).
 
-| <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/c46467f0936b6829eb6cdea1cee48b200895eb38/Images/Proj_maps_for_CD_and_variant_kappa_CR_runs_HI.png?raw=true" width="1200"> |
+| <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/1c663628fcefb795927aefc0acbca1450b417b5f/Images/Proj_maps_for_CD_and_variant_kappa_CR_runs_H_yt_4p4.png?raw=true" width="1200"> |
 |:--:|
 |Impacts on gas morphology by different CR transport models|
 
