@@ -21,4 +21,5 @@ Here are some expository notes I have written on various topics. Note that I DO 
  
 
 # Mathematics notes
+- A note on the [Green's function](https://drive.google.com/file/d/1fkJii5_duQACc09TidWaH_ASHRIz8y95/view?usp=sharing) method solving the Poisson's equation and the inhomogenous wave equation.
 - A note on the properties and related theorems of the Dirichlet series and Dirichlet-L function. Some knowledge on complex analysis is needed to read [this note](Dirichlet_Series-2.pdf).
