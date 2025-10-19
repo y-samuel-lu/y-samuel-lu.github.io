@@ -5,6 +5,8 @@ title: "My Research"
 ---
 I am interested in theoretical astrophysics and cosmology. I mainly use high-resolution supercomputer simulations to study the gas in the universe, including the structure they formed and their dynamics. I am currently in the collaboration of the [FIRE (Feedback In Realistic Environments)](https://fire.northwestern.edu) project, which uses the [GIZMO](http://www.tapir.caltech.edu/~phopkins/Site/GIZMO_files/gizmo_documentation.html#snaps-reading) code. I also used [AREPO](https://arepo-code.org) and [Athena++](https://arepo-code.org) before.
 
+A full list of my published (and pre-print) papers can be found either in my [ADS library](https://ui.adsabs.harvard.edu/search/q=orcid%3A0009-0001-6243-0861&sort=date%20desc%2C%20bibcode%20desc&p_=0) or my [Google Scholar page](https://scholar.google.com/citations?user=dKTstawAAAAJ&hl=en).
+
 Other than astrophysics, I am also broadly interested in fluid dynamics, plasma physics, high performance computing, and mathematics.
 
 # Cosmic rays (CRs) in galaxy formation/evolution
