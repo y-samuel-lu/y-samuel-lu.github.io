@@ -12,7 +12,7 @@ Other than astrophysics, I am also broadly interested in fluid dynamics, plasma 
 # Galactic magnetic fields
 Magnetic fields are ubiquitous in galaxies, being the source for stellar B-fields and supporting cosmic ray propogation. One of the main unsolved problems related to the galatic B-field is their amplification, aka the dynamos. There has been many theories on how dynamos work, but very little was tested as observations are limited due to weak field strength. I use zoom-in galaxy simulations to study the properties and evolution of B-field in galaxies, and hope to address the source of dynamos.
 
-| <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/1c663628fcefb795927aefc0acbca1450b417b5f/Images/B_fld_slice_streamlines_face_on_all_4_by_2.jpg?raw=true" width="1200"> |
+| <img src="https://github.com/y-samuel-lu/y-samuel-lu.github.io/blob/a6dc2c4090465dfe49e7e380c08bdccb4ef674a5/Images/B_fld_slice_streamlines_face_on_all_4_by_2.jpg?raw=true" width="1200"> |
 |:--:|
 |Visualization of B-field in galaxies|
 
